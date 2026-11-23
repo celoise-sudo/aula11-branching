@@ -1,0 +1,24 @@
+
+# Dependências
+node_modules/
+venv/
+
+# Arquivos compilados
+*.class
+*.o
+dist/
+build/
+
+# Logs e temporários
+*.log
+*.tmp
+
+# Segredos e configurações locais
+.env
+config.local.json
+
+# Arquivos do sistema operacional e editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
